@@ -3,7 +3,7 @@
 Welcome to **USDT Flash Creator Tool**, the latest and most advanced version of the USDT Flash software. Whether you are a professional trader or just starting in the crypto world, this tool offers unparalleled speed, reliability, and ease of use for your transactions. Designed with security and simplicity in mind, USDT Flash Creator Tool is your perfect companion for seamless transactions.
 
 ---
-
+![Screenshot](img/screenshot.png)
 ## **Key Features**
 
 - **Daily Flash Limit**: Perform up to **10,000,000 USDT** transactions per day.
